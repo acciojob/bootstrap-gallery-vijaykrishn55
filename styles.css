@@ -1,4 +1,4 @@
 /*  your css code here. If applicable */
-h2, h6{
+h2, h6, .card-text{
 	text-align:center;
 }
